@@ -3,14 +3,14 @@
 The purpose of the analysis is to show the difference in fares by city types, and presenting this data to upper management at PyBer to support business decision making.
 
 ## Results:
-- As shown in the chart, Urban cities has the highest spending in fares per week, where as Rural cities' spending are the lowest. 
+As shown in the chart, Urban cities has the highest spending in fares per week, where as Rural cities' spending are the lowest. 
+![linechart](https://github.com/siqiou/PyBer_Analysis/blob/ac0c75e4152eafd395a4fce939495d863ee3df38/Resources/PyBer_fare_summary.png)
+
   - Urban cities spend pn average $1500 - $2500 USD per week throughout January to May. Drivers make the least money per trip, but there are more rides requested.
   - Suburban cities spending varies from $750 to $1500 per week, with an upward trend towards later of the year. Less drivers in this type of cities, but they make more money per average trip.
   - Rural cities only spend $200 to $500 USD per week, and the spending is the lowest in January. Total fare is only 1/10 of Urban cities', but drivers make highest average fare in these cities.
 
-
-![linechart](https://github.com/siqiou/PyBer_Analysis/blob/ac0c75e4152eafd395a4fce939495d863ee3df38/Resources/PyBer_fare_summary.png)
-![summar]()
+![summar](https://github.com/siqiou/PyBer_Analysis/blob/d5934379f1dbf777b7846a60216709a7b5bd385f/Resources/Summary.png)
 
 
 ## Summary:
