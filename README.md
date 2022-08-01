@@ -9,7 +9,7 @@ The purpose of the analysis is to show the difference in fares by city types, an
   - Rural cities only spend $200 to $500 USD per week, and the spending is the lowest in January. Total fare is only 1/10 of Urban cities', but drivers make highest average fare in these cities.
 
 
-![linechart] ()
+![linechart](https://github.com/siqiou/PyBer_Analysis/blob/ac0c75e4152eafd395a4fce939495d863ee3df38/Resources/PyBer_fare_summary.png)
 ![summar]()
 
 
